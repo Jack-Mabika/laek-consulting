@@ -22,7 +22,7 @@ class CategorieController extends Controller
      */
     public function index()
     {
-        $categorie = Categorie::all();
+      //  $categorie = Categorie::all();
     }
 
     /**
